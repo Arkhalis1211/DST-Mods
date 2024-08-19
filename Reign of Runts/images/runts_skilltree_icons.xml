@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Atlas>
+	<Texture filename="runts_skilltree_icons.tex" />
+	<Elements>
+		<Element name="wearger_allegiance_lunar.tex" u1="0.001" u2="0.124" v2="0.999" v1="0.876" variant="" />
+		<Element name="wearger_allegiance_shadow.tex" u1="0.126" u2="0.249" v2="0.999" v1="0.876" variant="" />
+		<Element name="wearger_foods.tex" u1="0.001" u2="0.124" v2="0.874" v1="0.751" variant="" />
+		<Element name="wearger_fur_1.tex" u1="0.126" u2="0.249" v2="0.874" v1="0.751" variant="" />
+		<Element name="wearger_fur_2.tex" u1="0.251" u2="0.374" v2="0.999" v1="0.876" variant="" />
+		<Element name="wearger_fur_craft_1.tex" u1="0.376" u2="0.499" v2="0.999" v1="0.876" variant="" />
+		<Element name="wearger_fur_craft_2.tex" u1="0.251" u2="0.374" v2="0.874" v1="0.751" variant="" />
+		<Element name="wearger_fur_craft_3.tex" u1="0.376" u2="0.499" v2="0.874" v1="0.751" variant="" />
+		<Element name="wearger_fur_left.tex" u1="0.001" u2="0.124" v2="0.749" v1="0.626" variant="" />
+		<Element name="wearger_fur_right.tex" u1="0.126" u2="0.249" v2="0.749" v1="0.626" variant="" />
+		<Element name="wearger_hibear_full.tex" u1="0.251" u2="0.374" v2="0.749" v1="0.626" variant="" />
+		<Element name="wearger_hibear1.tex" u1="0.376" u2="0.499" v2="0.749" v1="0.626" variant="" />
+		<Element name="wearger_hibear2.tex" u1="0.001" u2="0.124" v2="0.624" v1="0.501" variant="" />
+		<Element name="wearger_hibear3.tex" u1="0.126" u2="0.249" v2="0.624" v1="0.501" variant="" />
+		<Element name="wearger_hibear4.tex" u1="0.251" u2="0.374" v2="0.624" v1="0.501" variant="" />
+		<Element name="wearger_pick_double1.tex" u1="0.376" u2="0.499" v2="0.624" v1="0.501" variant="" />
+		<Element name="wearger_pick_double2.tex" u1="0.501" u2="0.624" v2="0.999" v1="0.876" variant="" />
+		<Element name="wearger_yawn1.tex" u1="0.626" u2="0.749" v2="0.999" v1="0.876" variant="" />
+		<Element name="wearger_yawn2.tex" u1="0.751" u2="0.874" v2="0.999" v1="0.876" variant="" />
+		<Element name="wearger_yawn3.tex" u1="0.876" u2="0.999" v2="0.999" v1="0.876" variant="" />
+		<Element name="wearger_yawn4.tex" u1="0.501" u2="0.624" v2="0.874" v1="0.751" variant="" />
+		<Element name="woose_absorber.tex" u1="0.626" u2="0.749" v2="0.874" v1="0.751" variant="" />
+		<Element name="woose_allegiance_lunar.tex" u1="0.751" u2="0.874" v2="0.874" v1="0.751" variant="" />
+		<Element name="woose_allegiance_shadow.tex" u1="0.876" u2="0.999" v2="0.874" v1="0.751" variant="" />
+		<Element name="woose_birds_1.tex" u1="0.501" u2="0.624" v2="0.749" v1="0.626" variant="" />
+		<Element name="woose_birds_2.tex" u1="0.626" u2="0.749" v2="0.749" v1="0.626" variant="" />
+		<Element name="woose_feather_fan_1.tex" u1="0.751" u2="0.874" v2="0.749" v1="0.626" variant="" />
+		<Element name="woose_feather_fan_2.tex" u1="0.876" u2="0.999" v2="0.749" v1="0.626" variant="" />
+		<Element name="woose_nest_1.tex" u1="0.501" u2="0.624" v2="0.624" v1="0.501" variant="" />
+		<Element name="woose_nest_charger.tex" u1="0.626" u2="0.749" v2="0.624" v1="0.501" variant="" />
+		<Element name="woose_nest_follower.tex" u1="0.751" u2="0.874" v2="0.624" v1="0.501" variant="" />
+		<Element name="woose_nest_invest_1.tex" u1="0.876" u2="0.999" v2="0.624" v1="0.501" variant="" />
+		<Element name="woose_nest_invest_2.tex" u1="0.001" u2="0.124" v2="0.499" v1="0.376" variant="" />
+		<Element name="woose_nest_lightning.tex" u1="0.126" u2="0.249" v2="0.499" v1="0.376" variant="" />
+		<Element name="woose_nest_smother.tex" u1="0.251" u2="0.374" v2="0.499" v1="0.376" variant="" />
+		<Element name="woose_ocean_1.tex" u1="0.376" u2="0.499" v2="0.499" v1="0.376" variant="" />
+		<Element name="woose_ocean_2.tex" u1="0.501" u2="0.624" v2="0.499" v1="0.376" variant="" />
+		<Element name="woose_spin_1.tex" u1="0.626" u2="0.749" v2="0.499" v1="0.376" variant="" />
+		<Element name="woose_spin_2.tex" u1="0.751" u2="0.874" v2="0.499" v1="0.376" variant="" />
+		<Element name="woose_spin_3.tex" u1="0.876" u2="0.999" v2="0.499" v1="0.376" variant="" />
+		<Element name="woose_spin_4.tex" u1="0.001" u2="0.124" v2="0.374" v1="0.251" variant="" />
+		<Element name="woose_spin_rain.tex" u1="0.126" u2="0.249" v2="0.374" v1="0.251" variant="" />
+		<Element name="wragonfly_allegiance_lunar.tex" u1="0.251" u2="0.374" v2="0.374" v1="0.251" variant="" />
+		<Element name="wragonfly_allegiance_shadow.tex" u1="0.376" u2="0.499" v2="0.374" v1="0.251" variant="" />
+		<Element name="wragonfly_ash.tex" u1="0.501" u2="0.624" v2="0.374" v1="0.251" variant="" />
+		<Element name="wragonfly_damage_1.tex" u1="0.626" u2="0.749" v2="0.374" v1="0.251" variant="" />
+		<Element name="wragonfly_damage_2.tex" u1="0.751" u2="0.874" v2="0.374" v1="0.251" variant="" />
+		<Element name="wragonfly_damage_3.tex" u1="0.876" u2="0.999" v2="0.374" v1="0.251" variant="" />
+		<Element name="wragonfly_damage_4.tex" u1="0.001" u2="0.124" v2="0.249" v1="0.126" variant="" />
+		<Element name="wragonfly_hunger.tex" u1="0.126" u2="0.249" v2="0.249" v1="0.126" variant="" />
+		<Element name="wragonfly_lavae_hot.tex" u1="0.251" u2="0.374" v2="0.249" v1="0.126" variant="" />
+		<Element name="wragonfly_lavae_rage_1.tex" u1="0.376" u2="0.499" v2="0.249" v1="0.126" variant="" />
+		<Element name="wragonfly_lavae_rage_2.tex" u1="0.501" u2="0.624" v2="0.249" v1="0.126" variant="" />
+		<Element name="wragonfly_lavaedeath_1.tex" u1="0.626" u2="0.749" v2="0.249" v1="0.126" variant="" />
+		<Element name="wragonfly_lavaedeath_2.tex" u1="0.751" u2="0.874" v2="0.249" v1="0.126" variant="" />
+		<Element name="wragonfly_lavaehealth_1.tex" u1="0.876" u2="0.999" v2="0.249" v1="0.126" variant="" />
+		<Element name="wragonfly_lavaehealth_2.tex" u1="0.001" u2="0.124" v2="0.124" v1="0.001" variant="" />
+		<Element name="wragonfly_lavaehunger_1.tex" u1="0.126" u2="0.249" v2="0.124" v1="0.001" variant="" />
+		<Element name="wragonfly_lavaehunger_2.tex" u1="0.251" u2="0.374" v2="0.124" v1="0.001" variant="" />
+		<Element name="wragonfly_rage_lavae_1.tex" u1="0.376" u2="0.499" v2="0.124" v1="0.001" variant="" />
+		<Element name="wragonfly_rage_lavae_2.tex" u1="0.501" u2="0.624" v2="0.124" v1="0.001" variant="" />
+		<Element name="wragonfly_vigor_1.tex" u1="0.626" u2="0.749" v2="0.124" v1="0.001" variant="" />
+		<Element name="wragonfly_vigor_2.tex" u1="0.751" u2="0.874" v2="0.124" v1="0.001" variant="" />
+	</Elements>
+</Atlas>
